@@ -6,14 +6,15 @@
     <description>Recent content in Series on J3C</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
       <link>http://localhost/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost/series/themes-guide/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
